@@ -14,5 +14,3 @@ quantity, missing price, DD-MM-YYYY dates) and the design decisions.
 **Verification:** total revenue is checked in tests by an independent calculation in Python, separate from the SQL.
 
 **With another day:** real LLM-based interpretation tested end to end, more question types (category, channel, top-N, date ranges), a RAG/semantic layer over a data dictionary, logging, Docker, CI.
-
-> Note to self before submitting: update this file to describe your own experience and be ready to explain every module (see README architecture).
