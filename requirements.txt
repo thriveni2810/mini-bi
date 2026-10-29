@@ -1,0 +1,3 @@
+flask
+pytest
+# optional, only for the LLM switch: anthropic
