@@ -1,15 +1,20 @@
 # Mini AI Business Intelligence Assistant
 
-A small web app where a business user types a question about sales in plain English
-(e.g. *"Which region generated the highest sales?"*) and gets:
+## Project Demo
 
-1. a clear **answer**,
-2. the **supporting figures** (a table), and
-3. the **exact SQL** that produced them.
+Watch the complete project demonstration video:
+
+[▶ Watch Mini AI Business Intelligence Assistant – Demo](https://youtu.be/7SmCNS06Vgo)
+
+**Video visibility:** Unlisted (accessible to anyone with the link).
+
+A small web app where a business user types a question about sales in plain English (e.g., *"Which region generated the highest sales?"*) and gets:
+
+1. A clear **answer**.
+2. The **supporting figures** in a table.
+3. The **exact SQL** that produced them.
 
 Built with **Python, Flask and SQLite**. No API key is needed to run it.
-
----
 
 ## 1. Quick start
 
